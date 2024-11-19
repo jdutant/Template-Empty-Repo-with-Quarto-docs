@@ -12,5 +12,3 @@ It is build on [Pandoc](https://pandoc.org) and accepts
 multiple flavours of markdown.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-[ex trying to trigger rebuild.]
