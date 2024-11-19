@@ -1,0 +1,10 @@
+---
+title: "MyRepository"
+---
+
+This is a Quarto website to document this repository.
+
+Quarto is more powerful than Jekyll, but less than
+documentation-oriented tools like Sphinx or Docusaurus.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
