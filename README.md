@@ -14,5 +14,3 @@ You need to be able to run Quarto on your local machine.
 * [Quarto documentation on publishing with GitHub Actions](https://quarto.org/docs/publishing/github-pages.html#github-action).
 * [Quarto GitHub Actions](https://github.com/quarto-dev/quarto-actions) Available GitHub Actions with documentation and examples.
 * [GitHub Pages documentation](https://docs.github.com/en/pages).
-
-(Testing auto-triggered doc builds).
