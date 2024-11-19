@@ -1,0 +1,1 @@
+Sitemap: https://jdutant.github.io/Template-Empty-Repo-with-Quarto-docs/sitemap.xml

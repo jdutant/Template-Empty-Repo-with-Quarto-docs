@@ -6,10 +6,12 @@ Template for a repository with Quarto documentation deployed on Github pages.
 
 ## Set up Github pages
 
-Configure to publish from the branch `main`, folder `docs`.
+* In the GitHub reposistory's Settings > Pages: choose "configure to deploy from a branch", pick the branch `main` and the folder `docs`.
+* Create a repository branch called `gh-pages`.
 
-See:
+## Resources
 
-* [Quarto GitHub Actions](https://github.com/quarto-dev/quarto-actions?tab=readme-ov-file)
-* [GitHub Pages documentation(https://docs.github.com/en/pages).
+* [Quarto documentation on publishing with GitHub Actions](https://quarto.org/docs/publishing/github-pages.html#github-action).
+* [Quarto GitHub Actions](https://github.com/quarto-dev/quarto-actions) Available GitHub Actions with documentation and examples.
+* [GitHub Pages documentation](https://docs.github.com/en/pages).
 

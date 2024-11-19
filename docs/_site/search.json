@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Licence\nSee LICENSE file.\n\n\nContribute\nPRs welcome.\n\n\nThanks\ntba"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MyRepository",
+    "section": "",
+    "text": "This is a Quarto website to document this repository.\nQuarto is more powerful than Jekyll, but less than documentation-oriented tools like Sphinx or Docusaurus.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
