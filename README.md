@@ -15,3 +15,4 @@ You need to be able to run Quarto on your local machine.
 * [Quarto GitHub Actions](https://github.com/quarto-dev/quarto-actions) Available GitHub Actions with documentation and examples.
 * [GitHub Pages documentation](https://docs.github.com/en/pages).
 
+(Testing auto-triggered doc builds).
