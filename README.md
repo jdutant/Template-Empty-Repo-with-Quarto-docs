@@ -1,13 +1,13 @@
 # Template-Empty-Repo-with-Quarto-docs
 
-Template for a repository with Quarto documentation deployed on Github pages.
+Template for a repository with [Quarto](https://quarto.org) documentation deployed on Github pages.
 
-## Use this template
+## How to use this template
 
-## Set up Github pages
+You need to be able to run Quarto on your local machine.
 
-* In the GitHub reposistory's Settings > Pages: choose "configure to deploy from a branch", pick the branch `main` and the folder `docs`.
-* Create a repository branch called `gh-pages`.
+1. Copy the template by clicking "Use this template"
+2. Locally, go to `docs/` and run `quarto publish pages`. This creates a `gh-pages` branch in your repository and sets it up to publish Quarto outputs rendered from `docs/`.
 
 ## Resources
 
