@@ -1,5 +1,5 @@
 ---
-title: "MyRepository"
+title: "Quarto-generated Documentation"
 ---
 
 This is a Quarto website to document this repository.
